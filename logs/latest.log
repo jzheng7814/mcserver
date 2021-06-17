@@ -1,0 +1,92 @@
+[16:55:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:55:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:55:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:55:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:08] [main/INFO]: Reloading ResourceManager: Default
+[16:55:09] [Worker-Main-13/INFO]: Loaded 7 recipes
+[16:55:10] [Worker-Main-13/INFO]: Loaded 1137 advancements
+[16:55:12] [Server thread/INFO]: Starting minecraft server version 1.17
+[16:55:12] [Server thread/INFO]: Loading properties
+[16:55:12] [Server thread/INFO]: Default game type: SURVIVAL
+[16:55:12] [Server thread/INFO]: Generating keypair
+[16:55:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:55:13] [Server thread/INFO]: Using default channel type
+[16:55:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:55:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:55:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:55:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:55:14] [Server thread/INFO]: Preparing level "world"
+[16:55:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:55:15] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:55:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:55:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:55:16] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[16:55:16] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[16:55:17] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[16:55:17] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[16:55:18] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[16:55:26] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 8%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 8%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[16:55:26] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[16:55:27] [Worker-Main-11/INFO]: Preparing spawn area: 31%
+[16:55:28] [Worker-Main-11/INFO]: Preparing spawn area: 32%
+[16:55:28] [Worker-Main-11/INFO]: Preparing spawn area: 94%
+[16:55:29] [Server thread/INFO]: Time elapsed: 15074 ms
+[16:55:29] [Server thread/INFO]: Done (15.288s)! For help, type "help"
+[16:55:35] [Server thread/INFO]: Cognizar[/192.168.1.254:1038] logged in with entity id 206 at (-71.75685417954368, 17.0, -36.65340853521614)
+[16:55:35] [Server thread/INFO]: Cognizar joined the game
+[16:55:48] [Server thread/INFO]: Leucoptera[/99.7.181.25:63882] logged in with entity id 244 at (-69.45433117594234, 17.0, -45.33710846638567)
+[16:55:48] [Server thread/INFO]: Leucoptera joined the game
+[16:55:51] [Server thread/INFO]: Joshuaxw1[/24.96.149.33:64130] logged in with entity id 245 at (-69.35855142569348, 17.0, -44.60983738115969)
+[16:55:51] [Server thread/INFO]: Joshuaxw1 joined the game
+[16:56:06] [Server thread/INFO]: CSGeek01[/172.58.156.222:51875] logged in with entity id 254 at (-68.3145323358741, 17.0, -46.95079376717331)
+[16:56:06] [Server thread/INFO]: CSGeek01 joined the game
+[16:56:42] [Server thread/INFO]: Cognizar has made the advancement [Enchanter]
+[16:58:11] [Server thread/INFO]: Leucoptera has made the advancement [Enchanter]
+[16:58:18] [Server thread/INFO]: Joshuaxw1 has made the advancement [Enchanter]
+[17:00:33] [Server thread/INFO]: CSGeek01 has made the advancement [Enchanter]
+[17:01:21] [Server thread/INFO]: No player was found
+[17:01:32] [Server thread/INFO]: Gave 1 [Item Frame] to Cognizar
+[17:02:46] [Server thread/INFO]: Leucoptera has made the advancement [Not Today, Thank You]
+[17:04:53] [Server thread/INFO]: Joshuaxw1 has made the advancement [The Parrots and the Bats]
+[17:05:29] [Server thread/WARN]: Leucoptera moved too quickly! 9.773113785246206,-1.8395719184169863,1.6548636709962636
+[17:12:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:12:48] [Server thread/INFO]: e/give Cognizar minecraft:wheat 1<--[HERE]
+[17:12:52] [Server thread/INFO]: Set the time to 0
+[17:13:16] [Server thread/INFO]: Gave 1 [Wheat] to Cognizar
+[17:16:16] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-89, y=77, z=88} gg{x=-88, y=75, z=89}
+[17:16:16] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-89, y=77, z=88} gg{x=-88, y=75, z=89}
+[17:16:16] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-89, y=77, z=88} gg{x=-88, y=75, z=89}
+[17:16:58] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[17:16:58] [Server thread/INFO]: Cognizar left the game
+[17:17:49] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[17:17:49] [Server thread/INFO]: Leucoptera left the game
+[17:17:52] [Server thread/INFO]: CSGeek01 lost connection: Disconnected
+[17:17:52] [Server thread/INFO]: CSGeek01 left the game
+[17:55:32] [Server thread/INFO]: Joshuaxw1 lost connection: Timed out
+[17:55:32] [Server thread/INFO]: Joshuaxw1 left the game
+[17:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260658ms or 45213 ticks behind
+[17:56:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:56:24] [Server thread/INFO]: saveall<--[HERE]
+[17:56:30] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:56:30] [Server thread/INFO]: Saved the game
+[17:57:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:57:48] [Server thread/INFO]: exit<--[HERE]
+[17:57:54] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:57:54] [Server thread/INFO]: Saved the game
